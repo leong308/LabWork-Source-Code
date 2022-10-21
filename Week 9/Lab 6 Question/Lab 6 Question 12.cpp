@@ -68,7 +68,7 @@ int main(){
 		width3++;
 	}
 	
-	for(j = 0; j < length; j++){
+	for(j = 0; j <= length; j++){
 		
 		for(k = 0; k < width / 3; k++)
 			cout << " ";
