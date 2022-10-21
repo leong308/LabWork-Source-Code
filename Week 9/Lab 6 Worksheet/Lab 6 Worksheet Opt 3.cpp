@@ -1,4 +1,4 @@
-// Lab 6 Worksheet Option 2
+// Lab 6 Worksheet Option 3
 // LEONG ZI QI
 
 #include <iostream>
@@ -12,7 +12,7 @@ int main(){
 	int total = 0;		// total days
 	
 	do{
-		cout << "How many tellers worked at Nation’s Bank during each of the last three years?" << endl;
+		cout << "How many tellers worked at Nationâ€™s Bank during each of the last three years?" << endl;
 		cin >> tellers;
 	
 		// prevent infinite loop if char entered 
